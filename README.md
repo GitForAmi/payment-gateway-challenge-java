@@ -37,5 +37,5 @@ The project includes test classes to ensure the functionality of the services an
 - **Unit Tests**: Test individual components like `PaymentRequestService`, `AcquiringBankService`, and `PaymentGatewayService`.
 - **Integration Tests**: Test the interaction between components and the overall workflow of the payment processing ensuring main business scenarios are covered.
 
-The test coverage (94%) ensures that all critical paths and edge cases are tested, providing confidence in the reliability and correctness of the application.![image](https://github.com/user-attachments/assets/bff652fd-4bf5-42ef-bbf0-95e6cc84c8af)
+The test coverage (94%) ensures that all critical paths and edge cases are tested, providing confidence in the reliability and correctness of the application.
 
