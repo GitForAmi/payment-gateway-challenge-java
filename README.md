@@ -34,7 +34,7 @@ This service processes payment requests by validating them, sending them to the 
 
 The project includes test classes to ensure the functionality of the services and components. These tests cover various scenarios, including successful payment processing, validation errors, and communication with the acquiring bank.
 
-- **Unit Tests**: Test individual components like `PaymentRequestService`, `AcquiringBankService`, and `PaymentGatewayService`.
+- **Unit Tests**: Test individual components like `PaymentRequestService`, `PaymentRequestValidator`, and `PaymentGatewayService`.
 - **Integration Tests**: Test the interaction between components and the overall workflow of the payment processing ensuring main business scenarios are covered.
 
 The test coverage (94%) ensures that all critical paths and edge cases are tested, providing confidence in the reliability and correctness of the application.
