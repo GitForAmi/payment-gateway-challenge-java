@@ -41,7 +41,7 @@ class PaymentRequestServiceTest {
   private AcquiringBankService acquiringBankService;
 
   @InjectMocks
-  private PaymentRequestService paymentRequestService;
+  private PaymentRequestServiceImpl paymentRequestService;
 
   @BeforeEach
   void setUp() {

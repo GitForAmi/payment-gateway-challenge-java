@@ -16,8 +16,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.HttpServerErrorException;
 import org.springframework.web.client.RestTemplate;
 
-import static com.checkout.payment.gateway.constant.PaymentConstants.AUTH_GATEWAY_URL;
-
 /**
  * Service to send payment requests to the acquiring bank.
  */
